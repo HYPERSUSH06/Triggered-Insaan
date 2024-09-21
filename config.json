@@ -1,0 +1,12 @@
+{
+    "interaction_hotkey": "0xA4",
+    "auto_enable": true,
+    "interaction_delay": 0,
+    "base_delay": 0.0,
+    "color_range": 60,
+    "target_color": {
+        "R": 158,
+        "G": 79,
+        "B": 173
+    }
+}

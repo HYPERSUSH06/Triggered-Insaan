@@ -1,0 +1,5 @@
+numpy
+keyboard
+mss
+opencv-python
+pywin32
